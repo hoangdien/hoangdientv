@@ -430,22 +430,22 @@ ul.dropdown ul ul { top:0; left:100%; }
 ---------------------------------------- */	
 ul.dropdown *.sub { 
 	padding-right:15px; 
-	background-image: url(../images/nav-arrow-down-thin.gif); 
+	background-image: url(https://raw.githubusercontent.com/hoangdien/hoangdientv/main/images/nav-arrow-down-thin.gif); 
 	background-position: 95% 50%; 
 	background-repeat: no-repeat; 
 }
 
 ul.dropdown ul *.sub { 
 	padding-right: 15px; 
-	background-image: url(../images/nav-arrow-right-thin.gif);
+	background-image: url(https://raw.githubusercontent.com/hoangdien/hoangdientv/main/images/nav-arrow-right-thin.gif);
 	background-position: 100% 50%; 									  
 	background-repeat: no-repeat; 
 }
 
 /* Change trailing arrows on :hover IE7+
 --------------------------------------------------------- */
-ul.dropdown li.sub:hover{  background-image: url(../images/nav-arrow-down.gif); } 
-ul.dropdown ul li.sub:hover{ background-image: url(../images/nav-arrow-right.gif);  }
+ul.dropdown li.sub:hover{  background-image: url(https://raw.githubusercontent.com/hoangdien/hoangdientv/main/images/nav-arrow-down.gif); } 
+ul.dropdown ul li.sub:hover{ background-image: url(https://raw.githubusercontent.com/hoangdien/hoangdientv/main/images/nav-arrow-right.gif);  }
 
 /* Main menu seperator 
 ---------------------------------------------- */																		  								  
@@ -515,7 +515,7 @@ ul.dropdown li.ltr ul, ul.dropdown li.ltr ul ul { top:0; left:100%!important; ri
 	padding:0 15px;
 	padding-left:40px; 
 	height:40px; 
-	background:#26E1BC url(../images/nav-toggle.png) center no-repeat ; 
+	background:#26E1BC url(https://raw.githubusercontent.com/hoangdien/hoangdientv/main/images/nav-toggle.png) center no-repeat ; 
 	color:#FFFFFF;
 	text-align: center;
 	text-indent:-999em; 
